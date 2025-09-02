@@ -305,7 +305,7 @@ public class GameManager : MonoBehaviour
 
         // 실패 UI 띄어 주기
         EndUI.SetData();
-        EndUI.transform.DOMove(new Vector2(960, 559), 1f).SetEase(Ease.OutBounce);
+        EndUI.transform.GetComponent<RectTransform>().DOAnchorPos(new Vector2(0, 20f), 1f).SetEase(Ease.OutBounce);
         EndUI.DoAnimation();
     }
 
@@ -350,7 +350,7 @@ public class GameManager : MonoBehaviour
         // UI 띄우기
         EndUI.SetData();
         EndUI.Win();
-        EndUI.transform.DOMove(new Vector2(960, 580), 1f).SetEase(Ease.OutBounce)
+        EndUI.transform.GetComponent<RectTransform>().DOAnchorPos(new Vector2(0, 20f), 1f).SetEase(Ease.OutBounce)
             .OnComplete(() => 
             {
                 EndUI.SuccessAnimator.SetTrigger("Success");

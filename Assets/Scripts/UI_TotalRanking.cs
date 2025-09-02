@@ -62,10 +62,8 @@ public class UI_TotalRanking : MonoBehaviour
         nicknameInputField.gameObject.SetActive(false);
     }
 
-    private void OnNicknameSubmitted(string arg0)
+    private void OnNicknameSubmitted(string nickname)
     {
-        string nickname = arg0;
-
         // 닉네임이 비어있는지 확인
         if (string.IsNullOrEmpty(nickname))
         {
@@ -91,6 +89,8 @@ public class UI_TotalRanking : MonoBehaviour
 
         highScoreData.scores.Add(new ScoreEntry { nickname = nickname, score = currentScore });
         SaveManager.instance.SaveScores();
+
+        myNode.gameObject.SetActive(false);
 
         confirmPopup.gameObject.SetActive(true);
         this.gameObject.SetActive(false);
