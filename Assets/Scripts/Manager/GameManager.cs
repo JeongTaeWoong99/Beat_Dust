@@ -271,6 +271,7 @@ public class GameManager : MonoBehaviour
             return;
         }
         AudioManager.instance.PlaySfx(AudioManager.Sfx.Game_Over, 0.5f);
+        EndUI.pauseButton.interactable = false;  // GameOver or GameClear 버튼 비활성화
         isGameOver = true;
         
         // 🚀 사운드 정지 최적화
@@ -315,6 +316,7 @@ public class GameManager : MonoBehaviour
         // 이미 게임이 종료된 상태라면 중복 실행 방지
         if (isGameOver) return;
 
+        EndUI.pauseButton.interactable = false;  // GameOver or GameClear 버튼 비활성화
         isGameOver = true;
 
         // 🚀 사운드 정지 최적화
