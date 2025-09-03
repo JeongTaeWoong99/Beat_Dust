@@ -1,0 +1,3627 @@
+fileFormatVersion: 2
+guid: 97b0e912e28528e44b23c48de5d60970
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3589786542810914737
+    second: tutor_exp4_0
+  - first:
+      213: -3902132619207374942
+    second: tutor_exp4_1
+  - first:
+      213: 2845531688557421368
+    second: tutor_exp4_2
+  - first:
+      213: 6179602139408699502
+    second: tutor_exp4_3
+  - first:
+      213: 3858845787274029530
+    second: tutor_exp4_4
+  - first:
+      213: 8411289367844053286
+    second: tutor_exp4_5
+  - first:
+      213: 7320975001516582465
+    second: tutor_exp4_6
+  - first:
+      213: -4288762600890264859
+    second: tutor_exp4_7
+  - first:
+      213: -5610322560840562212
+    second: tutor_exp4_8
+  - first:
+      213: 5973181147928043657
+    second: tutor_exp4_9
+  - first:
+      213: 5089344366503109176
+    second: tutor_exp4_10
+  - first:
+      213: -588729632340108564
+    second: tutor_exp4_11
+  - first:
+      213: -5479305193104186919
+    second: tutor_exp4_12
+  - first:
+      213: 6754582680433533621
+    second: tutor_exp4_13
+  - first:
+      213: -3535178561918724995
+    second: tutor_exp4_14
+  - first:
+      213: 2970777612583784113
+    second: tutor_exp4_15
+  - first:
+      213: 8645412559911512259
+    second: tutor_exp4_16
+  - first:
+      213: 8378621564118783619
+    second: tutor_exp4_17
+  - first:
+      213: -8246458781097019880
+    second: tutor_exp4_18
+  - first:
+      213: 418946383126075326
+    second: tutor_exp4_19
+  - first:
+      213: -152122327744578
+    second: tutor_exp4_20
+  - first:
+      213: -4813425961526899595
+    second: tutor_exp4_21
+  - first:
+      213: 6500929771464268841
+    second: tutor_exp4_22
+  - first:
+      213: 2681232094188622884
+    second: tutor_exp4_23
+  - first:
+      213: -6877245999570135864
+    second: tutor_exp4_24
+  - first:
+      213: -7628268910406439598
+    second: tutor_exp4_25
+  - first:
+      213: -3652300981386095836
+    second: tutor_exp4_26
+  - first:
+      213: 4573115576231757073
+    second: tutor_exp4_27
+  - first:
+      213: 1980133502497792733
+    second: tutor_exp4_28
+  - first:
+      213: 2362775342114852084
+    second: tutor_exp4_29
+  - first:
+      213: -1468097441416667848
+    second: tutor_exp4_30
+  - first:
+      213: 761268589569866708
+    second: tutor_exp4_31
+  - first:
+      213: -5954627089256147868
+    second: tutor_exp4_32
+  - first:
+      213: -2041133151550119821
+    second: tutor_exp4_33
+  - first:
+      213: 4890485628542154455
+    second: tutor_exp4_34
+  - first:
+      213: 4597343643565535210
+    second: tutor_exp4_35
+  - first:
+      213: 768272326280050770
+    second: tutor_exp4_36
+  - first:
+      213: 4202031126227709948
+    second: tutor_exp4_37
+  - first:
+      213: -498097241818061250
+    second: tutor_exp4_38
+  - first:
+      213: 464425800921478254
+    second: tutor_exp4_39
+  - first:
+      213: 3484149970625443052
+    second: tutor_exp4_40
+  - first:
+      213: 5898991368895509972
+    second: tutor_exp4_41
+  - first:
+      213: 2773444069874513391
+    second: tutor_exp4_42
+  - first:
+      213: 5543084662132723909
+    second: tutor_exp4_43
+  - first:
+      213: -2433579653319877629
+    second: tutor_exp4_44
+  - first:
+      213: -7918017120497643530
+    second: tutor_exp4_45
+  - first:
+      213: -4960842448351996588
+    second: tutor_exp4_46
+  - first:
+      213: -1632804384202627421
+    second: tutor_exp4_47
+  - first:
+      213: 1221291357927670800
+    second: tutor_exp4_48
+  - first:
+      213: -1302310574911510648
+    second: tutor_exp4_49
+  - first:
+      213: 3034165461284682671
+    second: tutor_exp4_50
+  - first:
+      213: -4104928137856496663
+    second: tutor_exp4_51
+  - first:
+      213: -6604608616697190306
+    second: tutor_exp4_52
+  - first:
+      213: -3652978017937363268
+    second: tutor_exp4_53
+  - first:
+      213: -4778559348785433079
+    second: tutor_exp4_54
+  - first:
+      213: -8362890110842728671
+    second: tutor_exp4_55
+  - first:
+      213: 203423998428282265
+    second: tutor_exp4_56
+  - first:
+      213: -1146477915972485713
+    second: tutor_exp4_57
+  - first:
+      213: 7047460234582848900
+    second: tutor_exp4_58
+  - first:
+      213: -6154740590209115336
+    second: tutor_exp4_59
+  - first:
+      213: 6805989167376045008
+    second: tutor_exp4_60
+  - first:
+      213: 4847856315399464287
+    second: tutor_exp4_61
+  - first:
+      213: -7923964627927396528
+    second: tutor_exp4_62
+  - first:
+      213: -3668487968033158901
+    second: tutor_exp4_63
+  - first:
+      213: -4202074492670602570
+    second: tutor_exp4_64
+  - first:
+      213: 6978093843044630624
+    second: tutor_exp4_65
+  - first:
+      213: 5268734106896649867
+    second: tutor_exp4_66
+  - first:
+      213: 52234284574807967
+    second: tutor_exp4_67
+  - first:
+      213: 2385618327526648755
+    second: tutor_exp4_68
+  - first:
+      213: -5938815278133957107
+    second: tutor_exp4_69
+  - first:
+      213: 8019138188346486819
+    second: tutor_exp4_70
+  - first:
+      213: -5980799500410519985
+    second: tutor_exp4_71
+  - first:
+      213: -6387871979201103081
+    second: tutor_exp4_72
+  - first:
+      213: 7850830387341948950
+    second: tutor_exp4_73
+  - first:
+      213: 9200319061099061371
+    second: tutor_exp4_74
+  - first:
+      213: -8221113401737060298
+    second: tutor_exp4_75
+  - first:
+      213: 6154781412367214357
+    second: tutor_exp4_76
+  - first:
+      213: -8652463297973787147
+    second: tutor_exp4_77
+  - first:
+      213: -2068796521547244145
+    second: tutor_exp4_78
+  - first:
+      213: 2884777811504485612
+    second: tutor_exp4_79
+  - first:
+      213: -6798830683445481305
+    second: tutor_exp4_80
+  - first:
+      213: -6475246654400301082
+    second: tutor_exp4_81
+  - first:
+      213: 9012366903975344123
+    second: tutor_exp4_82
+  - first:
+      213: 5844267984111846928
+    second: tutor_exp4_83
+  - first:
+      213: -8217003271624084213
+    second: tutor_exp4_84
+  - first:
+      213: 196338738087888372
+    second: tutor_exp4_85
+  - first:
+      213: -2328183294203568717
+    second: tutor_exp4_86
+  - first:
+      213: -600505645954174704
+    second: tutor_exp4_87
+  - first:
+      213: 4167673814432538704
+    second: tutor_exp4_88
+  - first:
+      213: 1070340531711223337
+    second: tutor_exp4_89
+  - first:
+      213: -1031661108935102218
+    second: tutor_exp4_90
+  - first:
+      213: 6812494306266911152
+    second: tutor_exp4_91
+  - first:
+      213: -7273406954486262088
+    second: tutor_exp4_92
+  - first:
+      213: 2975218035712181007
+    second: tutor_exp4_93
+  - first:
+      213: -3279734308203346745
+    second: tutor_exp4_94
+  - first:
+      213: -2375483080398457773
+    second: tutor_exp4_95
+  - first:
+      213: -4303961003598052345
+    second: tutor_exp4_96
+  - first:
+      213: 905146816489294261
+    second: tutor_exp4_97
+  - first:
+      213: 2409971434994938034
+    second: tutor_exp4_98
+  - first:
+      213: -7575283962377028203
+    second: tutor_exp4_99
+  - first:
+      213: 7615499586093426649
+    second: tutor_exp4_100
+  - first:
+      213: -4402418423244783238
+    second: tutor_exp4_101
+  - first:
+      213: 6950660683094464268
+    second: tutor_exp4_102
+  - first:
+      213: -7271448101736570707
+    second: tutor_exp4_103
+  - first:
+      213: 3555448703049834566
+    second: tutor_exp4_104
+  - first:
+      213: -1331531657215438721
+    second: tutor_exp4_105
+  - first:
+      213: -5239197516995759922
+    second: tutor_exp4_106
+  - first:
+      213: -2174484404295248423
+    second: tutor_exp4_107
+  - first:
+      213: -4155216414312532816
+    second: tutor_exp4_108
+  - first:
+      213: -6099791214740909094
+    second: tutor_exp4_109
+  - first:
+      213: -1363698314431820199
+    second: tutor_exp4_110
+  - first:
+      213: -8664869111463240382
+    second: tutor_exp4_111
+  - first:
+      213: -893968243423911176
+    second: tutor_exp4_112
+  - first:
+      213: 1336718310212911765
+    second: tutor_exp4_113
+  - first:
+      213: -6562191992867089089
+    second: tutor_exp4_114
+  - first:
+      213: 7125297245824867046
+    second: tutor_exp4_115
+  - first:
+      213: 2268635819166389915
+    second: tutor_exp4_116
+  - first:
+      213: 1636383658332672255
+    second: tutor_exp4_117
+  - first:
+      213: 8111852015895227792
+    second: tutor_exp4_118
+  - first:
+      213: -2212665289087972440
+    second: tutor_exp4_119
+  - first:
+      213: 452491326828790750
+    second: tutor_exp4_120
+  - first:
+      213: 6760311139831049649
+    second: tutor_exp4_121
+  - first:
+      213: 7979984353977795033
+    second: tutor_exp4_122
+  - first:
+      213: 5478837888708625173
+    second: tutor_exp4_123
+  - first:
+      213: 1902884788212998808
+    second: tutor_exp4_124
+  - first:
+      213: 3680932853413396540
+    second: tutor_exp4_125
+  - first:
+      213: -4247341160153939229
+    second: tutor_exp4_126
+  - first:
+      213: -5435090014042772239
+    second: tutor_exp4_127
+  - first:
+      213: -480023383565398314
+    second: tutor_exp4_128
+  - first:
+      213: 4180640359490223761
+    second: tutor_exp4_129
+  - first:
+      213: 4576474587829375381
+    second: tutor_exp4_130
+  - first:
+      213: 975225372388291202
+    second: tutor_exp4_131
+  - first:
+      213: -1290658552459730647
+    second: tutor_exp4_132
+  - first:
+      213: -5222104283858898309
+    second: tutor_exp4_133
+  - first:
+      213: -5021093952234348631
+    second: tutor_exp4_134
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tutor_exp4_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 11964
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfd8b757db71d130800000000000000
+      internalID: 3589786542810914737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_1
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 11964
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a70ea5ae07d8d9c0800000000000000
+      internalID: -3902132619207374942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_2
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 11964
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83325959efb5d7720800000000000000
+      internalID: 2845531688557421368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_3
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 11964
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6013b4a76b52c550800000000000000
+      internalID: 6179602139408699502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_4
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 11964
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad92b796ccf5d8530800000000000000
+      internalID: 3858845787274029530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 11504
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6216d597d17eab470800000000000000
+      internalID: 8411289367844053286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_6
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 11504
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14629e6c9f3599560800000000000000
+      internalID: 7320975001516582465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_7
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 11504
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e294f723214b74c0800000000000000
+      internalID: -4288762600890264859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_8
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 11504
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd90dbd0b512422b0800000000000000
+      internalID: -5610322560840562212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_9
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 11504
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980af455b9005e250800000000000000
+      internalID: 5973181147928043657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 11044
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832ad01acbbf0a640800000000000000
+      internalID: 5089344366503109176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_11
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 11044
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea1f93c48964d7f0800000000000000
+      internalID: -588729632340108564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_12
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 11044
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1621d15f895f3b0800000000000000
+      internalID: -5479305193104186919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_13
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 11044
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b22f3919291dbd50800000000000000
+      internalID: 6754582680433533621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_14
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 11044
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74124ff3d580fec0800000000000000
+      internalID: -3535178561918724995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 10584
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be4db0bf725a3920800000000000000
+      internalID: 2970777612583784113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_16
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 10584
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8e93afaecaaf770800000000000000
+      internalID: 8645412559911512259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_17
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 10584
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3865ab4bbe7d64470800000000000000
+      internalID: 8378621564118783619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_18
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 10584
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816bfc12e61be8d80800000000000000
+      internalID: -8246458781097019880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_19
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 10584
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb71a2a048560d500800000000000000
+      internalID: 418946383126075326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 10124
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf31b245a57ffff0800000000000000
+      internalID: -152122327744578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_21
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 10124
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ccb823796433db0800000000000000
+      internalID: -4813425961526899595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_22
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 10124
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c93e90f21f73a50800000000000000
+      internalID: 6500929771464268841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_23
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 10124
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4245d764266a53520800000000000000
+      internalID: 2681232094188622884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_24
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 10124
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c455aa533d1f80a0800000000000000
+      internalID: -6877245999570135864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_25
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 9664
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d6110a7d1f22690800000000000000
+      internalID: -7628268910406439598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_26
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 9664
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423dbafab9b605dc0800000000000000
+      internalID: -3652300981386095836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_27
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 9664
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115891e1368f67f30800000000000000
+      internalID: 4573115576231757073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_28
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 9664
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd22b38ede8da7b10800000000000000
+      internalID: 1980133502497792733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_29
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 9664
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fccec6b7a34ac020800000000000000
+      internalID: 2362775342114852084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 9204
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d13b4c72540abe0800000000000000
+      internalID: -1468097441416667848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_31
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 9204
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db79f3bfb1909a00800000000000000
+      internalID: 761268589569866708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_32
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 9204
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46418f6163aec5da0800000000000000
+      internalID: -5954627089256147868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_33
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 9204
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370e49a86307ca3e0800000000000000
+      internalID: -2041133151550119821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_34
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 9204
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6786ca4ce7ed340800000000000000
+      internalID: 4890485628542154455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_35
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 8744
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefaf11afab0dcf30800000000000000
+      internalID: 4597343643565535210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_36
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 8744
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2587faa3c9379aa00800000000000000
+      internalID: 768272326280050770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_37
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 8744
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffefe5cb0d905a30800000000000000
+      internalID: 4202031126227709948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_38
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 8744
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3625d592376619f0800000000000000
+      internalID: -498097241818061250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_39
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 8744
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6473782ec8f17600800000000000000
+      internalID: 464425800921478254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 8284
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4315f30ff2a5030800000000000000
+      internalID: 3484149970625443052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_41
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 8284
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5bc14556d6dd150800000000000000
+      internalID: 5898991368895509972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_42
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 8284
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5b84defa04d7620800000000000000
+      internalID: 2773444069874513391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_43
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 8284
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c05656b12efcec40800000000000000
+      internalID: 5543084662132723909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_44
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 8284
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c104fe2303a3ed0800000000000000
+      internalID: -2433579653319877629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_45
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 7824
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffc64f516d8d1290800000000000000
+      internalID: -7918017120497643530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_46
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 7824
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455dc4fa31c872bb0800000000000000
+      internalID: -4960842448351996588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_47
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 7824
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6e6e3401d1759e0800000000000000
+      internalID: -1632804384202627421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_48
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 7824
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0148884f406e2f010800000000000000
+      internalID: 1221291357927670800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_49
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 7824
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8872a2b9e634dede0800000000000000
+      internalID: -1302310574911510648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_50
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 7364
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabf1ad49658b1a20800000000000000
+      internalID: 3034165461284682671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_51
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 7364
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebce828b9d5807c0800000000000000
+      internalID: -4104928137856496663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_52
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 7364
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58a741b477b754a0800000000000000
+      internalID: -6604608616697190306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_53
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 7364
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe6884d8d30e4dc0800000000000000
+      internalID: -3652978017937363268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_54
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 7364
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906b58517952fadb0800000000000000
+      internalID: -4778559348785433079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_55
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 6904
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f879fa0cb01fb80800000000000000
+      internalID: -8362890110842728671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_56
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 6904
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d7b1d7c05b2d200800000000000000
+      internalID: 203423998428282265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_57
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 6904
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad31a3e864e610f0800000000000000
+      internalID: -1146477915972485713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_58
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 6904
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485700b8ebb9dc160800000000000000
+      internalID: 7047460234582848900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_59
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 6904
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b58ebda08f59aa0800000000000000
+      internalID: -6154740590209115336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 6444
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d31b9a861bb37e50800000000000000
+      internalID: 6805989167376045008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_61
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 6444
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55e48142ab074340800000000000000
+      internalID: 4847856315399464287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_62
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 6444
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f80a3672c680290800000000000000
+      internalID: -7923964627927396528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_63
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 6444
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09c69a21a9e61dc0800000000000000
+      internalID: -3668487968033158901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_64
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 6444
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b293a0338b3fa5c0800000000000000
+      internalID: -4202074492670602570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_65
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5984
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0600404f06b27d060800000000000000
+      internalID: 6978093843044630624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_66
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 5984
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e4f8951cd4e1940800000000000000
+      internalID: 5268734106896649867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_67
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 5984
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f979d291ec299b000800000000000000
+      internalID: 52234284574807967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_68
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 5984
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb23e5ba3b6b1120800000000000000
+      internalID: 2385618327526648755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_69
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 5984
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ea92048f6159da0800000000000000
+      internalID: -5938815278133957107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_70
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5524
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3207921f1b3b94f60800000000000000
+      internalID: 8019138188346486819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_71
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 5524
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e7231ca8eeffca0800000000000000
+      internalID: -5980799500410519985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_72
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 5524
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71bfb018748b957a0800000000000000
+      internalID: -6387871979201103081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_73
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 5524
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618fb5d44a0c3fc60800000000000000
+      internalID: 7850830387341948950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_74
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 5524
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70a011d0791eaf70800000000000000
+      internalID: 9200319061099061371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_75
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5064
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630624f1becb8ed80800000000000000
+      internalID: -8221113401737060298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_76
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 5064
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517235ac51d2a6550800000000000000
+      internalID: 6154781412367214357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_77
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 5064
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5ea2429764ce780800000000000000
+      internalID: -8652463297973787147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_78
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 5064
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ddc9c46882a43e0800000000000000
+      internalID: -2068796521547244145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_79
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 5064
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce457a6a22ac80820800000000000000
+      internalID: 2884777811504485612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_80
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4604
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0b431e383b5a1a0800000000000000
+      internalID: -6798830683445481305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_81
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 4604
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7fe63a97d4326a0800000000000000
+      internalID: -6475246654400301082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_82
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 4604
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7ffe813fb521d70800000000000000
+      internalID: 9012366903975344123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_83
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 4604
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016cc2d64c20b1150800000000000000
+      internalID: 5844267984111846928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_84
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 4604
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05bf9c5f0757fd80800000000000000
+      internalID: -8217003271624084213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_85
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4144
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f58063ca0989b200800000000000000
+      internalID: 196338738087888372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_86
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 4144
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd5ff011a1a0bfd0800000000000000
+      internalID: -2328183294203568717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_87
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 4144
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011f84feb439aa7f0800000000000000
+      internalID: -600505645954174704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_88
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 4144
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050e2f0c04d86d930800000000000000
+      internalID: 4167673814432538704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_89
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 4144
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926a95dea0d9ade00800000000000000
+      internalID: 1070340531711223337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_90
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3684
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f07659ffadcea1f0800000000000000
+      internalID: -1031661108935102218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_91
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 3684
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b119673a77da8e50800000000000000
+      internalID: 6812494306266911152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_92
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 3684
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b69dfa39eaaf0b90800000000000000
+      internalID: -7273406954486262088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_93
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 3684
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03c5f34a091a4920800000000000000
+      internalID: 2975218035712181007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_94
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 3684
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4c0e1060b0c72d0800000000000000
+      internalID: -3279734308203346745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_95
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3224
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35436e669b6980fd0800000000000000
+      internalID: -2375483080398457773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_96
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 3224
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704876545424544c0800000000000000
+      internalID: -4303961003598052345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_97
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 3224
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b98b62eb3abf8c00800000000000000
+      internalID: 905146816489294261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_98
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 3224
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b036b56040f17120800000000000000
+      internalID: 2409971434994938034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_99
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 3224
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59dbdcd2f5f2fd690800000000000000
+      internalID: -7575283962377028203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_100
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2764
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7ab306680bfa960800000000000000
+      internalID: 7615499586093426649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_101
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 2764
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a710cd1e4c777e2c0800000000000000
+      internalID: -4402418423244783238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_102
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 2764
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c079e1aa015b57060800000000000000
+      internalID: 6950660683094464268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_103
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 2764
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0ad4d2a70a61b90800000000000000
+      internalID: -7271448101736570707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_104
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 2764
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640a86202cd775130800000000000000
+      internalID: 3555448703049834566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_105
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2304
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f709c743303758de0800000000000000
+      internalID: -1331531657215438721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_106
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 2304
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0fb53ed91aa47b0800000000000000
+      internalID: -5239197516995759922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_107
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 2304
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5da5884fda2d1e0800000000000000
+      internalID: -2174484404295248423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_108
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 2304
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4770cbfa4b556c0800000000000000
+      internalID: -4155216414312532816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_109
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 2304
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3d1515530395ba0800000000000000
+      internalID: -6099791214740909094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_110
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1844
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e0e73bb9b231de0800000000000000
+      internalID: -1363698314431820199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_111
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1844
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d9af9937330c780800000000000000
+      internalID: -8664869111463240382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_112
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1844
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2ec3a7e9cf793f0800000000000000
+      internalID: -893968243423911176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_113
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 1844
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592400d883afc8210800000000000000
+      internalID: 1336718310212911765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_114
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 1844
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f359e3586296ee4a0800000000000000
+      internalID: -6562191992867089089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_115
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1384
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ead578f71422e260800000000000000
+      internalID: 7125297245824867046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_116
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1384
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96d32ef140db7f10800000000000000
+      internalID: 2268635819166389915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_117
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1384
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff05c2f644a95b610800000000000000
+      internalID: 1636383658332672255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_118
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 1384
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09da8f51e66139070800000000000000
+      internalID: 8111852015895227792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_119
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 1384
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab031d84a80b41e0800000000000000
+      internalID: -2212665289087972440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_120
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 924
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3439fd672974600800000000000000
+      internalID: 452491326828790750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_121
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 924
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdeebcf92371dd50800000000000000
+      internalID: 6760311139831049649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_122
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 924
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1850c7d799ebe60800000000000000
+      internalID: 7979984353977795033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_123
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 924
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513cd6a180eb80c40800000000000000
+      internalID: 5478837888708625173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_124
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 924
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8922ee902a7686a10800000000000000
+      internalID: 1902884788212998808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_125
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 464
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3045c18dec451330800000000000000
+      internalID: 3680932853413396540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_126
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 464
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2012dd7b96e05c0800000000000000
+      internalID: -4247341160153939229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_127
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 464
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc25b6bd6ea294b0800000000000000
+      internalID: -5435090014042772239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_128
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 464
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de04b2a64d9659f0800000000000000
+      internalID: -480023383565398314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_129
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 464
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e7319c14e940a30800000000000000
+      internalID: 4180640359490223761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_130
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5911c23f367e28f30800000000000000
+      internalID: 4576474587829375381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_131
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 4
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282f6292f42b88d00800000000000000
+      internalID: 975225372388291202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_132
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 4
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921615e72e8a61ee0800000000000000
+      internalID: -1290658552459730647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_133
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 4
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b727b8c52db5787b0800000000000000
+      internalID: -5222104283858898309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutor_exp4_134
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 4
+        width: 802
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af953147ad715ab0800000000000000
+      internalID: -5021093952234348631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tutor_exp4_0: 3589786542810914737
+      tutor_exp4_1: -3902132619207374942
+      tutor_exp4_10: 5089344366503109176
+      tutor_exp4_100: 7615499586093426649
+      tutor_exp4_101: -4402418423244783238
+      tutor_exp4_102: 6950660683094464268
+      tutor_exp4_103: -7271448101736570707
+      tutor_exp4_104: 3555448703049834566
+      tutor_exp4_105: -1331531657215438721
+      tutor_exp4_106: -5239197516995759922
+      tutor_exp4_107: -2174484404295248423
+      tutor_exp4_108: -4155216414312532816
+      tutor_exp4_109: -6099791214740909094
+      tutor_exp4_11: -588729632340108564
+      tutor_exp4_110: -1363698314431820199
+      tutor_exp4_111: -8664869111463240382
+      tutor_exp4_112: -893968243423911176
+      tutor_exp4_113: 1336718310212911765
+      tutor_exp4_114: -6562191992867089089
+      tutor_exp4_115: 7125297245824867046
+      tutor_exp4_116: 2268635819166389915
+      tutor_exp4_117: 1636383658332672255
+      tutor_exp4_118: 8111852015895227792
+      tutor_exp4_119: -2212665289087972440
+      tutor_exp4_12: -5479305193104186919
+      tutor_exp4_120: 452491326828790750
+      tutor_exp4_121: 6760311139831049649
+      tutor_exp4_122: 7979984353977795033
+      tutor_exp4_123: 5478837888708625173
+      tutor_exp4_124: 1902884788212998808
+      tutor_exp4_125: 3680932853413396540
+      tutor_exp4_126: -4247341160153939229
+      tutor_exp4_127: -5435090014042772239
+      tutor_exp4_128: -480023383565398314
+      tutor_exp4_129: 4180640359490223761
+      tutor_exp4_13: 6754582680433533621
+      tutor_exp4_130: 4576474587829375381
+      tutor_exp4_131: 975225372388291202
+      tutor_exp4_132: -1290658552459730647
+      tutor_exp4_133: -5222104283858898309
+      tutor_exp4_134: -5021093952234348631
+      tutor_exp4_14: -3535178561918724995
+      tutor_exp4_15: 2970777612583784113
+      tutor_exp4_16: 8645412559911512259
+      tutor_exp4_17: 8378621564118783619
+      tutor_exp4_18: -8246458781097019880
+      tutor_exp4_19: 418946383126075326
+      tutor_exp4_2: 2845531688557421368
+      tutor_exp4_20: -152122327744578
+      tutor_exp4_21: -4813425961526899595
+      tutor_exp4_22: 6500929771464268841
+      tutor_exp4_23: 2681232094188622884
+      tutor_exp4_24: -6877245999570135864
+      tutor_exp4_25: -7628268910406439598
+      tutor_exp4_26: -3652300981386095836
+      tutor_exp4_27: 4573115576231757073
+      tutor_exp4_28: 1980133502497792733
+      tutor_exp4_29: 2362775342114852084
+      tutor_exp4_3: 6179602139408699502
+      tutor_exp4_30: -1468097441416667848
+      tutor_exp4_31: 761268589569866708
+      tutor_exp4_32: -5954627089256147868
+      tutor_exp4_33: -2041133151550119821
+      tutor_exp4_34: 4890485628542154455
+      tutor_exp4_35: 4597343643565535210
+      tutor_exp4_36: 768272326280050770
+      tutor_exp4_37: 4202031126227709948
+      tutor_exp4_38: -498097241818061250
+      tutor_exp4_39: 464425800921478254
+      tutor_exp4_4: 3858845787274029530
+      tutor_exp4_40: 3484149970625443052
+      tutor_exp4_41: 5898991368895509972
+      tutor_exp4_42: 2773444069874513391
+      tutor_exp4_43: 5543084662132723909
+      tutor_exp4_44: -2433579653319877629
+      tutor_exp4_45: -7918017120497643530
+      tutor_exp4_46: -4960842448351996588
+      tutor_exp4_47: -1632804384202627421
+      tutor_exp4_48: 1221291357927670800
+      tutor_exp4_49: -1302310574911510648
+      tutor_exp4_5: 8411289367844053286
+      tutor_exp4_50: 3034165461284682671
+      tutor_exp4_51: -4104928137856496663
+      tutor_exp4_52: -6604608616697190306
+      tutor_exp4_53: -3652978017937363268
+      tutor_exp4_54: -4778559348785433079
+      tutor_exp4_55: -8362890110842728671
+      tutor_exp4_56: 203423998428282265
+      tutor_exp4_57: -1146477915972485713
+      tutor_exp4_58: 7047460234582848900
+      tutor_exp4_59: -6154740590209115336
+      tutor_exp4_6: 7320975001516582465
+      tutor_exp4_60: 6805989167376045008
+      tutor_exp4_61: 4847856315399464287
+      tutor_exp4_62: -7923964627927396528
+      tutor_exp4_63: -3668487968033158901
+      tutor_exp4_64: -4202074492670602570
+      tutor_exp4_65: 6978093843044630624
+      tutor_exp4_66: 5268734106896649867
+      tutor_exp4_67: 52234284574807967
+      tutor_exp4_68: 2385618327526648755
+      tutor_exp4_69: -5938815278133957107
+      tutor_exp4_7: -4288762600890264859
+      tutor_exp4_70: 8019138188346486819
+      tutor_exp4_71: -5980799500410519985
+      tutor_exp4_72: -6387871979201103081
+      tutor_exp4_73: 7850830387341948950
+      tutor_exp4_74: 9200319061099061371
+      tutor_exp4_75: -8221113401737060298
+      tutor_exp4_76: 6154781412367214357
+      tutor_exp4_77: -8652463297973787147
+      tutor_exp4_78: -2068796521547244145
+      tutor_exp4_79: 2884777811504485612
+      tutor_exp4_8: -5610322560840562212
+      tutor_exp4_80: -6798830683445481305
+      tutor_exp4_81: -6475246654400301082
+      tutor_exp4_82: 9012366903975344123
+      tutor_exp4_83: 5844267984111846928
+      tutor_exp4_84: -8217003271624084213
+      tutor_exp4_85: 196338738087888372
+      tutor_exp4_86: -2328183294203568717
+      tutor_exp4_87: -600505645954174704
+      tutor_exp4_88: 4167673814432538704
+      tutor_exp4_89: 1070340531711223337
+      tutor_exp4_9: 5973181147928043657
+      tutor_exp4_90: -1031661108935102218
+      tutor_exp4_91: 6812494306266911152
+      tutor_exp4_92: -7273406954486262088
+      tutor_exp4_93: 2975218035712181007
+      tutor_exp4_94: -3279734308203346745
+      tutor_exp4_95: -2375483080398457773
+      tutor_exp4_96: -4303961003598052345
+      tutor_exp4_97: 905146816489294261
+      tutor_exp4_98: 2409971434994938034
+      tutor_exp4_99: -7575283962377028203
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
