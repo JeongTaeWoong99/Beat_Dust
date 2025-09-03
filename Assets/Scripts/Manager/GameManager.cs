@@ -301,6 +301,8 @@ public class GameManager : MonoBehaviour
         SaveManager.instance.TotalClearRound = CurrentRound;
         SaveManager.instance.TotalDustCount += KillDustCount;
 
+        SaveManager.instance.TotalScore += SaveManager.instance.TotalDustCount * 10; // 청소한 먼지 개수 * 10점 추가
+
         // 커서 초기화
         ResetCursor();
 
@@ -348,7 +350,9 @@ public class GameManager : MonoBehaviour
 
         SaveManager.instance.TotalClearRound = CurrentRound; // 현재 라운드 저장
         SaveManager.instance.TotalDustCount += KillDustCount;
-        
+
+        SaveManager.instance.TotalScore += SaveManager.instance.TotalDustCount * 10;
+
         // UI 띄우기
         EndUI.SetData();
         EndUI.Win();

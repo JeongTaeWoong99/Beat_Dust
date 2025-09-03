@@ -77,6 +77,7 @@ public class UI_Title : MonoBehaviour
     {
         AudioManager.instance.PlaySfx(AudioManager.Sfx.Splash,1f);
         //startRectTransform.sizeDelta = new Vector2(360, 320);
+        SaveManager.instance.ResetData();
         StartCoroutine(StartButton());
     }
     
