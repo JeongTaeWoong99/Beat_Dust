@@ -17,8 +17,8 @@
 
 <h3 align="center">메인 화면</h3>
   <p align="cente<img width="1280" height="720" alt="tutor_exp1" src="https://github.com/user-attachments/assets/dce8fa82-0076-46da-97f5-e2c937e5c319" />
-r">
-  
+<p align="center">
+
 </p>
 
 <h3 align="center">튜토리얼 화면</h3>
