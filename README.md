@@ -14,9 +14,8 @@
 플레이어는 음악을 좋아하는 청소부 'Dustin'이 되어, 각종 장소에서 몰려오는 먼지 더미들을 씻어내야 합니다!
 
 ## 인게임 사진
-
-<h3 align="center">메인 화면</h3>
-  <p align="cente<img width="1280" height="720" alt="tutor_exp1" src="https://github.com/user-attachments/assets/dce8fa82-0076-46da-97f5-e2c937e5c319" />
+<h3 align="center">튜토리얼 화면</h3>
+  <img width="1280" height="720" alt="img1_title" src="https://github.com/user-attachments/assets/6523dd6f-ef9a-4ae1-bddc-da716ea628cd" />
 <p align="center">
 
 </p>
