@@ -44,5 +44,5 @@
 ## 관련 링크
 <table>
   <tr><td>시연 영상</td><td><a href="https://www.youtube.com/watch?v=NJPbLlls3Vc&feature=youtu.be">바로가기</a></td></tr>
-  <tr><td>게임 상점</td><td>9월 17일 오픈 예정</a></td></tr>
+ <tr><td>게임 상점</td><td><a href="https://store.onstove.com/ko/games/102473">바로가기</a></td></tr>
 </table>
