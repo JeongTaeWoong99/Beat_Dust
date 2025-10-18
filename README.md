@@ -1,10 +1,10 @@
 ## 📑 목차
 - [📋 개요](#-개요)
+- [🎬 인게임 사진](#-인게임-사진)
+- [🔗 관련 링크](#-관련-링크)
 - [✨ 주요 기능](#-주요-기능)
 - [🎯 핵심 담당 기능](#-핵심-담당-기능)
-- [🎬 인게임 사진](#-인게임-사진)
 - [📂 프로젝트 구조](#-프로젝트-구조)
-- [🔗 관련 링크](#-관련-링크)
 - [🛠 기술 스택](#-기술-스택)
 - [🏗 아키텍처](#-아키텍처)
 
@@ -33,6 +33,42 @@
 음악을 좋아하는 청소부 'Dustin'이 되어, 몰려오는 먼지 더미들을 씻어내야 합니다!
 
 넥슨 '재밌넥'에서 2박 3일간 제작된 프로젝트로, 이후 폴리싱 작업을 거쳐 무료 게임으로 출시하였습니다.
+
+## 🎬 인게임 사진
+
+<table>
+  <tr>
+    <td align="center">
+      <img width="640" height="360" alt="메인 화면" src="https://github.com/user-attachments/assets/6523dd6f-ef9a-4ae1-bddc-da716ea628cd" />
+      <br/>
+      <b>메인 화면</b>
+    </td>
+    <td align="center">
+      <img width="640" height="360" alt="튜토리얼 화면" src="https://github.com/user-attachments/assets/969c5c16-1a5b-4dc4-83b7-46dbf460a651" />
+      <br/>
+      <b>튜토리얼 화면</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="640" height="360" alt="전투 화면" src="https://github.com/user-attachments/assets/9d7d9063-ad9f-4a30-b522-277311fab6bd" />
+      <br/>
+      <b>전투 화면</b>
+    </td>
+    <td align="center">
+      <img width="640" height="360" alt="점수 화면" src="https://github.com/user-attachments/assets/5c46caee-c5af-4f01-bfd3-c78a2369a775" />
+      <br/>
+      <b>점수 화면</b>
+    </td>
+  </tr>
+</table>
+
+
+## 🔗 관련 링크
+<table>
+  <tr><td>시연 영상</td><td><a href="https://www.youtube.com/watch?v=NJPbLlls3Vc&feature=youtu.be">바로가기</a></td></tr>
+  <tr><td>게임 상점</td><td><a href="https://store.onstove.com/ko/games/102473">바로가기</a></td></tr>
+</table>
 
 
 ## ✨ 주요 기능
@@ -233,36 +269,6 @@ if (isVertical)
 - **복붙 지원** : 텍스트 영역으로 대량 패턴 입력 가능
 
 
-## 🎬 인게임 사진
-
-<table>
-  <tr>
-    <td align="center">
-      <img width="640" height="360" alt="메인 화면" src="https://github.com/user-attachments/assets/6523dd6f-ef9a-4ae1-bddc-da716ea628cd" />
-      <br/>
-      <b>메인 화면</b>
-    </td>
-    <td align="center">
-      <img width="640" height="360" alt="튜토리얼 화면" src="https://github.com/user-attachments/assets/969c5c16-1a5b-4dc4-83b7-46dbf460a651" />
-      <br/>
-      <b>튜토리얼 화면</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img width="640" height="360" alt="전투 화면" src="https://github.com/user-attachments/assets/9d7d9063-ad9f-4a30-b522-277311fab6bd" />
-      <br/>
-      <b>전투 화면</b>
-    </td>
-    <td align="center">
-      <img width="640" height="360" alt="점수 화면" src="https://github.com/user-attachments/assets/5c46caee-c5af-4f01-bfd3-c78a2369a775" />
-      <br/>
-      <b>점수 화면</b>
-    </td>
-  </tr>
-</table>
-
-
 ## 📂 프로젝트 구조
 
 ```
@@ -310,13 +316,6 @@ Assets/Scripts/
     ├── HoverImage.cs       # 이미지 호버 효과
     └── RankingNode.cs      # 랭킹 노드 관리
 ```
-
-
-## 🔗 관련 링크
-<table>
-  <tr><td>시연 영상</td><td><a href="https://www.youtube.com/watch?v=NJPbLlls3Vc&feature=youtu.be">바로가기</a></td></tr>
-  <tr><td>게임 상점</td><td><a href="https://store.onstove.com/ko/games/102473">바로가기</a></td></tr>
-</table>
 
 
 ## 🛠 기술 스택
