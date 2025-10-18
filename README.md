@@ -8,7 +8,6 @@
 - [🛠 기술 스택](#-기술-스택)
 - [🏗 아키텍처](#-아키텍처)
 
----
 
 ## 📋 개요
 <table>
@@ -35,31 +34,29 @@
 
 넥슨 '재밌넥'에서 2박 3일간 제작된 프로젝트로, 이후 폴리싱 작업을 거쳐 무료 게임으로 출시하였습니다.
 
----
 
 ## ✨ 주요 기능
 
-### 🎵 리듬 게임 시스템
+### 리듬 게임 시스템
 - **박자 동기화** : 음악의 BPM에 맞춰 적 생성 및 공격 타이밍 동기화
 - **타격 판정** : 노드 위치에 따른 판정 시스템
 - **노트 생성** : 음악 패턴에 따른 노트 생성 및 관리
 
-### 🎮 게임플레이
+### 게임플레이
 - **플레이어 제어** : 마우스와 방향키 기반 직관적인 조작 시스템
 - **적 AI** : 패턴에 따라 이동하는 몬스터 시스템
 - **난이도 조절** : 다양한 난이도의 음악 선택 가능
 
-### 💾 데이터 관리
+### 데이터 관리
 - **점수 저장** : 로컬 저장을 통한 최고 점수 기록
 - **랭킹 시스템** : 플레이 기록 관리 및 순위 표시
 - **설정 저장** : 게임 설정 및 사용자 데이터 관리
 
-### 🎨 UI/UX
+### UI/UX
 - **튜토리얼** : 초보자를 위한 안내 시스템
 - **피드백** : 타격 시 시각/청각적 피드백 제공
 - **씬 전환** : 부드러운 로딩 화면 및 씬 전환
 
----
 
 ## 🎯 핵심 담당 기능
 
@@ -124,11 +121,11 @@ void Update()
                           - currentAudioTime;
 
     // 거리와 시간을 이용해 정확한 위치 계산
-    float totalDistance = Vector3.Distance(startPosition, targetPosition);
-    float totalTime     = totalDistance / moveSpeed;
-    double elapsedTime  = totalTime - timeToTarget;
-    float progress      = Mathf.Clamp01((float)(elapsedTime / totalTime));
-
+    float  totalDistance = Vector3.Distance(startPosition, targetPosition);
+    float  totalTime     = totalDistance / moveSpeed;
+    double elapsedTime   = totalTime - timeToTarget;
+    float  progress      = Mathf.Clamp01((float)(elapsedTime / totalTime));
+ 
     // 위치 업데이트
     transform.position = Vector3.Lerp(startPosition, targetPosition, progress);
 }
@@ -181,7 +178,7 @@ private Rect DrawPatternRow(Rect rect, string label, SerializedProperty stringPr
     for (int i = 0; i < PATTERN_LENGTH; i++)
     {
         string currentPattern = stringProperty.stringValue;
-        int currentValue = currentPattern[i] - '0'; // 0~4 값 추출
+        int    currentValue   = currentPattern[i] - '0'; // 0~4 값 추출
 
         // 가로/세로 배치 선택
         Rect buttonRect = isVertical
@@ -235,7 +232,6 @@ if (isVertical)
 - **생산성 향상** : 기획자가 코드 없이 레벨 디자인 가능
 - **복붙 지원** : 텍스트 영역으로 대량 패턴 입력 가능
 
----
 
 ## 🎬 인게임 사진
 
@@ -266,7 +262,6 @@ if (isVertical)
   </tr>
 </table>
 
----
 
 ## 📂 프로젝트 구조
 
@@ -316,7 +311,6 @@ Assets/Scripts/
     └── RankingNode.cs      # 랭킹 노드 관리
 ```
 
----
 
 ## 🔗 관련 링크
 <table>
@@ -324,21 +318,28 @@ Assets/Scripts/
   <tr><td>게임 상점</td><td><a href="https://store.onstove.com/ko/games/102473">바로가기</a></td></tr>
 </table>
 
----
 
 ## 🛠 기술 스택
 
-### 개발 환경
-- **Engine** : Unity 6000.0.44f1 LTS
-- **Language** : C#
-- **IDE** : JetBrains Rider 2024.3.4f
+### 클라이언트
+- **Unity 6000.0.44f1 LTS** - 게임 엔진
+- **C#** - 프로그래밍 언어
+- **JetBrains Rider 2024.3.4f** - 통합 개발 환경
+- **DOTween** - 트윈 애니메이션 라이브러리
 
-### 주요 기술
-- **Unity Audio** : 오디오 시스템 및 동기화
-- **ScriptableObject** : 데이터 관리 및 설정
-- **JsonUtility** : 로컬 데이터 저장
+### 오디오 시스템
+- **AudioSettings.dspTime** - 고정밀 오디오 동기화
+- **Unity Audio System** - 사운드 재생 및 관리
+- **PlayScheduled** - 예약 기반 음악 재생
 
----
+### 데이터 관리
+- **ScriptableObject** - 레벨 및 몬스터 데이터 관리
+- **JsonUtility** - 로컬 저장 시스템
+- **PlayerPrefs** - 사용자 설정 저장
+
+### 디자인 패턴
+- **Singleton Pattern** - 매니저 클래스들의 전역 접근
+- **ScriptableObject Pattern** - 데이터 중심 설계
 
 ## 🏗 아키텍처
 
@@ -407,11 +408,3 @@ SaveManager (점수 저장)
     ↓
 JSON 파일 (로컬 저장)
 ```
-
-### 주요 디자인 패턴
-
-- **Singleton Pattern** : 매니저 클래스들의 전역 접근
-- **ScriptableObject Pattern** : 데이터 중심 설계
-
----
-
