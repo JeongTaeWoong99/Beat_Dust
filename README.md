@@ -1,15 +1,20 @@
 ## 개요
 <table>
-  <tr><td>기간</td><td>2025.07.18 ~ 2025.07.20  + 1개월</td></tr>
-  <tr><td>인원</td><td>5명(기획 1, 클라이언트 2, 아트 2)</td></tr>
-  <tr><td>역할</td><td>클라이언트</td></tr>
-  <tr><td>도구</td><td>UNITY, C#</td></tr>
-  <tr><td>타겟 기기</td><td>PC</td></tr>
-  <tr><td>참여 활동</td><td>2025 넥슨 재밌넥(최우수상)</td></tr>
-  
-  <td style="vertical-align: top; padding-left: 20px;">
-      <img src="https://github.com/user-attachments/assets/e385d98b-c74d-400d-83e1-f35f67b89d4e" width="200"/>
-  </td>
+  <tr>
+    <td>
+      <table>
+        <tr><td>기간</td><td>2025.07.18 ~ 2025.07.20  + 1개월</td></tr>
+        <tr><td>인원</td><td>5명(기획 1, 클라이언트 2, 아트 2)</td></tr>
+        <tr><td>역할</td><td>클라이언트</td></tr>
+        <tr><td>도구</td><td>UNITY, C#</td></tr>
+        <tr><td>타겟 기기</td><td>PC</td></tr>
+        <tr><td>참여 활동</td><td>2025 넥슨 재밌넥(최우수상)</td></tr>
+      </table>
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <img src="https://github.com/user-attachments/assets/46679bf3-8221-4881-9aef-6083580fb9cf" width="200"/>
+    </td>
+  </tr>
 </table>
 
 ## 프로젝트 소개
