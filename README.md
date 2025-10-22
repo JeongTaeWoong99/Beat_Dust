@@ -176,6 +176,8 @@ void Update()
 
 ### 2️⃣ Unity Editor 커스텀을 통한 레벨 디자인 도구 개발
 
+<img width="665" height="720" alt="image39" src="https://github.com/user-attachments/assets/e995befa-d2c2-4e97-b64b-508ced39d257" />
+
 #### 📌 해결하고자 한 문제
 기획자가 **위/아래/왼쪽/오른쪽 4방향**의 패턴 데이터(각 11자리 문자열)를 직접 수정하고 테스트할 수 있는 직관적인 환경이 필요했습니다.
 
