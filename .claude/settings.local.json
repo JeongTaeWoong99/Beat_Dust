@@ -3,7 +3,8 @@
     "allow": [
       "Bash(mkdir:*)",
       "Bash(mv:*)",
-      "WebFetch(domain:github.com)"
+      "WebFetch(domain:github.com)",
+      "Read(//c/Users/ASUS/Desktop/**)"
     ],
     "deny": [],
     "ask": []

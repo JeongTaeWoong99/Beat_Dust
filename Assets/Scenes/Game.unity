@@ -2785,8 +2785,50 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 8384361956856300130, guid: 1e6c11d70c1c2454ebbc77982d4b7c63, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 948888061}
   m_SourcePrefab: {fileID: 100100000, guid: 1e6c11d70c1c2454ebbc77982d4b7c63, type: 3}
+--- !u!1 &948888060 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8384361956856300130, guid: 1e6c11d70c1c2454ebbc77982d4b7c63, type: 3}
+  m_PrefabInstance: {fileID: 948888059}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &948888061
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 948888060}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad09f437e62335e44ac467e28a5e6a38, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  IsTestMode: 0
+  UseTestBullet: 0
+  TestBulletCount: 3
+  MoveDelay: 0.15
+  JumpHeight: 0.3
+  MoveDistance: 1
+  moveEase: 6
+  IsMoving: 0
+  moveDirection: {x: 0, y: 1, z: 0}
+  previousMoveDirection: {x: 0, y: -1, z: 0}
+  AttackBullet: {fileID: 0}
+  AttackDelay: 0.4
+  AttackDirection: {x: 1, y: 0}
+  spreadAngle: 15
+  AttackPoint: {fileID: 0}
+  tailPrefab: {fileID: 0}
+  followers: []
+  positionHistory: []
+  PerCreateTailIndex: 1
+  PerCreateTailCount: 2
+  curCatchedMonsterCount: 0
+  Animator: {fileID: 0}
 --- !u!1 &949420466
 GameObject:
   m_ObjectHideFlags: 0
@@ -6081,9 +6123,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1552760716391594244, guid: cb426f58956ec024d8cda260ee328ce8, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6096331789901811835, guid: cb426f58956ec024d8cda260ee328ce8, type: 3}
       propertyPath: m_Name
       value: UI_Canvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 6318760171862375732, guid: cb426f58956ec024d8cda260ee328ce8, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6318760171862375732, guid: cb426f58956ec024d8cda260ee328ce8, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6888449402853121970, guid: cb426f58956ec024d8cda260ee328ce8, type: 3}
       propertyPath: m_Pivot.x

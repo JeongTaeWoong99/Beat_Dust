@@ -74,7 +74,8 @@ Unity의 고질적인 문제인 **사운드 스레드 독립 실행**으로 인�
 ```csharp
 public void PrepareGame()
 {
-    gameStartTime = AudioSettings.dspTime; // 게임 시작 시간 기록
+    // 게임 시작 시간 기록
+    gameStartTime = AudioSettings.dspTime;
 
     // 첫 노드가 중앙에 도착하는 시간 계산
     float  travelTime           = distance / nodeSpeed;
